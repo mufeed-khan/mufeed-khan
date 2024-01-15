@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Generate QR Code](https://mufeed-khan.github.io/QR-Code/)
+
 
 - 🌱 I’m currently learning **Backend Technology**
 
